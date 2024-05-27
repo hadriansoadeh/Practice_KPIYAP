@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<flights>
+  <flight>
+    <destinationName>New York</destinationName>
+    <flightNumber>123</flightNumber>
+    <departureTime>10:00 AM</departureTime>
+  </flight>
+  <flight>
+    <destinationName>London</destinationName>
+    <flightNumber>456</flightNumber>
+    <departureTime>2:30 PM</departureTime>
+  </flight>
+  <flight>
+    <destinationName>Belarus</destinationName>
+    <flightNumber>1</flightNumber>
+    <departureTime>10:40</departureTime>
+  </flight>
+  <flight>
+    <destinationName>Ivatcevichi</destinationName>
+    <flightNumber>12345</flightNumber>
+    <departureTime>18:25</departureTime>
+  </flight>
+</flights>
